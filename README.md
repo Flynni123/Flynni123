@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Flynni123
-- 👀 I’m interested in raytracing and pixelart
+- 👀 I’m interested in bitmaipulation and pixelart
 - 🌱 I’m currently learning both of them
 
 <!---
