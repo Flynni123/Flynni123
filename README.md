@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flynni123
 - 👀 I’m interested in pixelart
-- 🌱 I’m currently learning both of them
+- 🌱 I’m currently trying to learn it
 
 <!---
 Flynni123/Flynni123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
